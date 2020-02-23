@@ -16,5 +16,6 @@
     <servlet-name>HelloWorldServlet</servlet-name>
     <url-pattern>hws</url-pattern>
   </servlet-mapping>
-  
+
+
 </web-app>
